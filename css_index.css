@@ -1,15 +1,11 @@
 * {
-    padding: 10;
-    margin: 10;
+    padding: 0;
+    margin: 0;
 }
 
 .border-sample {
     border: thin solid rgb(255, 255, 255) !important;
-    border-radius: 5%;
-    border-bottom-left-radius: 5%;
-    border-top-left-radius: 5%;
-    border-bottom-right-radius: 5%;
-    border-top-right-radius: 5%;
+    border-radius: 10px;
     background-color: whitesmoke;
     box-shadow: 5ch;
 }
@@ -31,6 +27,7 @@ header {
     border-bottom: 1px solid white;
     background-color: black;
     width: 2450px;
+    background-position-x: center;
     position: fixed;
 }
 
