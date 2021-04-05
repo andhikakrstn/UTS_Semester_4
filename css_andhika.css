@@ -193,3 +193,14 @@ section {
     display: flex;
     justify-content: space-evenly;
 }
+
+.img {
+    align-content: center;
+}
+
+.container-img {
+    width: 1000px;
+    margin: 50px auto;
+    justify-content: center;
+    display: flex;
+}
